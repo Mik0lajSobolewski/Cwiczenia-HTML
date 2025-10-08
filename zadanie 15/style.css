@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+header {
+    background-color: rgb(82, 180, 241);
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding: 20px;
+    font-size: 20px;
+}
+nav {
+    background-color:#334A5C;
+    text-align: center;
+    height: 50px;
+    color: white;
+    font-size: 17px;
+    padding: 15px;
+}
+aside {
+    width: 25%;
+    height: 400px;
+    padding: 20px;
+    font-size: 20px;
+    float: left;
+}
+main {
+    background-color: lightblue;
+    float: right;
+    width: 75%;
+    height: 400px;
+}
+.artykul {
+    width: 48%;
+    height: 200px;
+    float: left;
+    margin: 1%;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    padding: 20px;
+}
+footer {
+    clear: both;
+    background-color:#334A5C;
+    color: white;
+    height: 50px;
+    text-align: center;
+    font-size: 17px;
+    padding: 12px;
+}
