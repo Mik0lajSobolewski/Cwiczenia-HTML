@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+main {
+    float: left;
+    height: 300px;
+    width: 65%;
+    background-color: lightgray;
+    padding: 15px;
+}
+aside {
+    float: right;
+    height: 300px;
+    width: 32%;
+    background-color: gray;
+    padding: 15px;
+}
+footer {
+    clear: both;
+    background-color: rgb(96, 96, 163);
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+}

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+main {
+    background-color:#334A5C;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}
+#lewo {
+    float: left;
+    width: 25%;
+    height: 300px;
+    padding: 20px;
+    background-color: #d3d3d3;
+}
+#prawo {
+    float: right;
+    padding: 20px;
+    width: 73%;
+    height: 300px;
+    background-color: #d3d3d3;
+}

@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+#blok1 {
+    float: left;
+    width: 48%;
+    height: 100px;
+    margin: 1%;
+    background-color: lightskyblue;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+#blok2 {
+    float: left;
+    width: 48%;
+    height: 100px;
+    margin: 1%;
+    background-color: lightskyblue;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+#blok3 {
+    float: left;
+    width: 48%;
+    height: 100px;
+    margin: 1%;
+    background-color: lightskyblue;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+#blok4 {
+    float: left;
+    width: 48%;
+    height: 100px;
+    margin: 1%;
+    background-color: lightskyblue;
+    box-sizing: border-box;
+    border: 2px solid black;
+}

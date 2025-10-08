@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+.wpis {
+    float: left;
+    width: 35%;
+    margin: 1%;
+    background-color: lightgray;
+    height: 100px;
+    padding: 5px;
+}
+aside {
+    float: right;
+    background-color: lightgray;
+    width: 20%;
+    height: 50px;
+    padding: 5px;
+}

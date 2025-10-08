@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+header {
+    background-image: linear-gradient(135deg, #576ad8 0%, #72548f 50%, #6822c3 100%);
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+main {
+    background-color:#334A5C;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}
+#lewo {
+    float: left;
+    width: 25%;
+    height: 300px;
+    padding: 20px;
+    background-color: #d3d3d3;
+}
+#prawo {
+    float: right;
+    padding: 20px;
+    width: 73%;
+    height: 300px;
+    background-color: #d3d3d3;
+}
+footer {
+    clear: both;
+    background-color:#334A5C;
+    height: 75px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
